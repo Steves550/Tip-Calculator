@@ -1,0 +1,65 @@
+body {
+    background-color: #c5ffa8;
+}
+
+#container {
+    height: 600px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    margin: 100px auto;
+    background-color: #e8fffd;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+
+form {
+    font-size: 2rem;
+}
+
+#dollarSign {
+    width: 23px;
+    height: 30px;
+    margin-right: 3px;
+    font-size: 1rem;
+}
+
+#bill {
+    height: 25px;
+    width: 300px;
+    font-size: 1rem;
+    
+}
+
+#selectServ {
+    height: 30px;
+    width: 300px;
+    font-size: 1rem;
+}
+
+body p {
+    font-size: 1.5rem;
+    width: 304px;
+}
+
+#billShare {
+    height: 30px;
+    width: 300px;
+}
+
+#calculateTip {
+    margin-top: 40px;
+    height: 40px;
+    width: 220px;
+    color: #fff;
+    background-color: #00b50c;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 600;
+}
